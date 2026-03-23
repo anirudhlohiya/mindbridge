@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from "react";
 import "./index.css";
 
 // const BACKEND = "https://expert-telegram-p6g7w9jwjwrc6p99-8000.app.github.dev";
-const BACKEND = "https://mindbridge-c1m6.onrender.com/";
+const BACKEND = "https://mindbridge-c1m6.onrender.com";
 
 const MOODS = [
   { emoji: "😄", label: "Great",     color: "#7fd8be" },
